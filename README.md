@@ -36,4 +36,6 @@ Once launched, you should see:
 	12:12:08,243 INFO  ~ Connected to jdbc:h2:/Users/clement/Projects/Play-Example-Library/db/h2/play;MODE=MYSQL
 	12:12:08,939 INFO  ~ Application 'Play Framework Example - Library' is now started !
 	
+
 Then, open a browser on http://localhost:9000. 
+
