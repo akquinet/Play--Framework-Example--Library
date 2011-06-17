@@ -1,6 +1,7 @@
 Introduction
 ============
 This projects is a simple example using the Play! framework. It's a basic library without any fancy feature but illustrates a couple of Play! features such as:
+
 * The template engine
 * The JPA support
 * The CRUD module
