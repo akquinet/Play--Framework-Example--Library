@@ -7,3 +7,6 @@ logs
 test-result
 *~
 
+
+/db/
+/modules/
