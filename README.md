@@ -7,7 +7,7 @@ This projects is a simple example using the Play! framework. It's a basic librar
 
 Running the application
 =======================
-First download the Play! Framework from [http://www.playframework.org/download] and install it by following the instructions from [http://www.playframework.org/documentation/1.2.1/install].
+First download the Play! Framework from [the download page](http://www.playframework.org/download) and install it by following the instructions from [the installation guide](http://www.playframework.org/documentation/1.2.1/install).
 
 Then, clone the repository and start the application:
 
@@ -36,4 +36,4 @@ Once launched, you should see:
 	12:12:08,243 INFO  ~ Connected to jdbc:h2:/Users/clement/Projects/Play-Example-Library/db/h2/play;MODE=MYSQL
 	12:12:08,939 INFO  ~ Application 'Play Framework Example - Library' is now started !
 	
-Then, open a browser on [localhost:9000]. 
+Then, open a browser on (localhost:9000). 
