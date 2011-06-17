@@ -1,16 +1,19 @@
-1. Introduction
+Introduction
+============
 This projects is a simple example using the Play! framework. It's a basic library without any fancy feature but illustrates a couple of Play! features such as:
 * The template engine
 * The JPA support
 * The CRUD module
 
-1. Running the application
+Running the application
+=======================
 First download the Play! Framework from [http://www.playframework.org/download] and install it by following the instructions from [http://www.playframework.org/documentation/1.2.1/install].
 
 Then, clone the repository and start the application:
 
     git clone git@github.com:akquinet/Play--Framework-Example--Library.git Play-Framework-Example-Library
 	cd Play-Framework-Example-Library
+	play dependencies
 	play run .
 	
 Once launched, you should see:
