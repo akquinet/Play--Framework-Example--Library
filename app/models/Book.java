@@ -26,4 +26,14 @@ public class Book extends Model {
         this.save();
         return this;
     }
+
+    public Book checkIn() {
+        isCheckedOut = false;
+        this.save();
+        return this;
+    }
+
+    public String toString() {
+    	return title + " - " + author;
+    }
 }
